@@ -1,4 +1,4 @@
-const string = "         Function Up        "
+const string = "              Function Up             "
 const string1 = string.trim()
 
 const upperCase = "FUNCTION UP"

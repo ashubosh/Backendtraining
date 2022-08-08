@@ -1,5 +1,5 @@
 const printDate = function(){
-    console.log("Date is : 6")
+    console.log("Date is : 7")
 }
 
 const printMonth = function(){
