@@ -1,10 +1,15 @@
 {
-  "name": "src",
+  "name": "radon",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Backend cohort for Plutonium(July-Nov 2022)",
+=======
+  "description": "Backend cohort for Radon(May-Sep)",
+>>>>>>> 577c8012f3e731b63b8d86cc2c5abda0b8e44442
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "command1": "fssffdggdgdgdgdfgdfgdfgdfgdfgdf dfgdfg dgdg dfgfg  dgdfg dgdg"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +17,10 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+<<<<<<< HEAD
     "lodash": "^4.17.21"
+=======
+    "underscore": "^1.13.3"
+>>>>>>> 577c8012f3e731b63b8d86cc2c5abda0b8e44442
   }
 }
